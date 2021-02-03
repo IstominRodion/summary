@@ -1,0 +1,38 @@
+E:\Учеба\Мат логика\лр 1\лр 1\bin\Debug\лр 1.exe.config
+E:\Учеба\Мат логика\лр 1\лр 1\bin\Debug\лр 1.exe
+E:\Учеба\Мат логика\лр 1\лр 1\bin\Debug\лр 1.pdb
+E:\Учеба\Мат логика\лр 1\лр 1\obj\Debug\лр 1.csprojAssemblyReference.cache
+E:\Учеба\Мат логика\лр 1\лр 1\obj\Debug\лр 1.csproj.CoreCompileInputs.cache
+E:\Учеба\Мат логика\лр 1\лр 1\obj\Debug\лр 1.exe
+E:\Учеба\Мат логика\лр 1\лр 1\obj\Debug\лр 1.pdb
+F:\2 курс\Мат. логика\лр 1\лр 1\bin\Debug\лр 1.exe.config
+F:\2 курс\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.exe
+F:\2 курс\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.pdb
+F:\Мат. логика\лр 1\лр 1\bin\Debug\лр 1.exe.config
+F:\Мат. логика\лр 1\лр 1\bin\Debug\лр 1.exe
+F:\Мат. логика\лр 1\лр 1\bin\Debug\лр 1.pdb
+F:\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.csprojAssemblyReference.cache
+F:\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.csproj.CoreCompileInputs.cache
+F:\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.exe
+F:\Мат. логика\лр 1\лр 1\obj\Debug\лр 1.pdb
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\obj\Debug\лр 1.csprojAssemblyReference.cache
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\obj\Debug\лр 1.csproj.CoreCompileInputs.cache
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\obj\Debug\лр 1.exe
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\obj\Debug\лр 1.pdb
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\bin\Debug\лр 1.exe.config
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\bin\Debug\лр 1.exe
+D:\Загрузки chrome\лр 1-20190916T120658Z-001\лр 1\лр 1\bin\Debug\лр 1.pdb
+E:\мат логика\лр 1\лр 1\bin\Debug\лр 1.exe.config
+E:\мат логика\лр 1\лр 1\bin\Debug\лр 1.exe
+E:\мат логика\лр 1\лр 1\bin\Debug\лр 1.pdb
+E:\мат логика\лр 1\лр 1\obj\Debug\лр 1.csprojAssemblyReference.cache
+E:\мат логика\лр 1\лр 1\obj\Debug\лр 1.csproj.CoreCompileInputs.cache
+E:\мат логика\лр 1\лр 1\obj\Debug\лр 1.exe
+E:\мат логика\лр 1\лр 1\obj\Debug\лр 1.pdb
+D:\Флэшка\мат логика\лр 1\лр 1\bin\Debug\лр 1.exe.config
+D:\Флэшка\мат логика\лр 1\лр 1\bin\Debug\лр 1.exe
+D:\Флэшка\мат логика\лр 1\лр 1\bin\Debug\лр 1.pdb
+D:\Флэшка\мат логика\лр 1\лр 1\obj\Debug\лр 1.csprojAssemblyReference.cache
+D:\Флэшка\мат логика\лр 1\лр 1\obj\Debug\лр 1.csproj.CoreCompileInputs.cache
+D:\Флэшка\мат логика\лр 1\лр 1\obj\Debug\лр 1.exe
+D:\Флэшка\мат логика\лр 1\лр 1\obj\Debug\лр 1.pdb
